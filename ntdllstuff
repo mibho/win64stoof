@@ -148,6 +148,7 @@ ntdll!_TEB
       + 0x58 = ? C0000.. status or length..? something
       + 0x60 = ?  ptr for something? <- involves test reg, reg 
       + 0x68 = ?
+      + 0x98 = ptr to uint for code page 
       + 0xE0 = ?
       + 0xE8 = ? uint status 
       + 0xEC = ? uint status
